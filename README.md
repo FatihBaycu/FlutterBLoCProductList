@@ -3,6 +3,7 @@
 A new Flutter BloC Pattern Product List project.
 
 ![image2](https://github.com/FatihBaycu/FlutterBLoCProductList/blob/main/assets/ss/ss2.png)
+
 ![image3](https://raw.githubusercontent.com/FatihBaycu/FlutterBLoCProductList/main/assets/ss/ss3.png)
 ![image4](https://raw.githubusercontent.com/FatihBaycu/FlutterBLoCProductList/main/assets/ss/ss4.png)
 ![image5](https://raw.githubusercontent.com/FatihBaycu/FlutterBLoCProductList/main/assets/ss/ss5.png)
